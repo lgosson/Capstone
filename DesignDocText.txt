@@ -10,7 +10,7 @@ TABLE OF CONTENTS
 4. SYSTEM ARCHITECTURE 
 4.1 Architectural Design 
 4.2 Decomposition Description 
-4.3 Design Rationale 
+4.3 Design Rationale   
 5. DATA DESIGN 
 5.1Data Description 
      5.2 Data Dictionary 
@@ -31,6 +31,20 @@ This document will be updated and refined based on changing requirements.
 
 1.2 Scope
 Provide a description and scope of the software and explain the goals, objectives and benefits of your project. This will provide the basis for the brief description of your product.
+The goal of the website is to provide Unami Sushi and Asian Grills with a place to show their food items, spread the word of their restaurant, and give their customers
+a better idea of what Unami is about. Currently Unami only has a facebook page with minimal photos and information. This site will allow them to boost their credibility 
+and reputation by providing more information about each menu item. With more information about their food and history will give customers comfort in actually
+coming in and trying various menu items. 
+
+Content is key for the website to impact the customer volume and overall public reputation. By adding photos customers will be able to visualize the item along
+with a description, and customer review. Photos of the interior will also be featured for visual aid. 
+
+Customers will interact with the website by posting reviews/comments on certain menu items. These reviews and items 
+will be able to be shared through different social media.
+
+History of Unami will add a personal touch to the site and the overall feel of the restaurant environment. 
+
+
 
 1.3 Overview
 Provide an overview of this document and its organization.
